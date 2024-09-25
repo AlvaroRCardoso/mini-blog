@@ -1,3 +1,3 @@
 # React
 
-Veja: mini-blog-rose.vercel.app
+Veja: https://mini-blog-rose.vercel.app
